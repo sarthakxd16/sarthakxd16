@@ -1,10 +1,10 @@
-<h1 align="center">Hi 👋, I'm Sarthak (Pricisely)</h1>
+<h1 align="center">Hi 👋, I'm Sarthak (VIBER)</h1>
 <h3 align="center">Passionate About Web Development Still Learning !</h3>
 
 
-  <div align="center"> <img https://telegra.ph/file/c1888a11db20357bea8ec.jpg" width="600" height="300"/> </div>
+  <div align="center"> <img https://telegra.ph/file/c1888a11db20357bea8ec.jpg" </div>
 
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=sarthakkale16&label=Profile%20views&color=E4405F&style=flat" alt="sarthakkale16" /> </p>
+<p align="centre"> <img src="https://komarev.com/ghpvc/?username=sarthakkale16&label=Profile%20views&color=E4405F&style=flat" alt="sarthakkale16" /> </p>
 
 <h3 align="left">Connect with me:</h3>
 
