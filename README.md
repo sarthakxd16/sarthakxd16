@@ -2,7 +2,7 @@
 <h3 align="center">Passionate About Web Development Still Learning !</h3>
 
 
-  <div align="center"> <img https://canva.me/eQTdU8aG4tb" width="600" height="300"/> </div>
+  <div align="center"> <img https://telegra.ph/file/c1888a11db20357bea8ec.jpg" width="600" height="300"/> </div>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=sarthakkale16&label=Profile%20views&color=E4405F&style=flat" alt="sarthakkale16" /> </p>
 
